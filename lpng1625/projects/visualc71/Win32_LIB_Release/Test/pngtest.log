@@ -1,0 +1,27 @@
+﻿  pngtest.c
+  pngtest.vcxproj -> C:\lib\lpng1625\projects\visualc71\.\Win32_LIB_Release\Test\pngtest.exe
+  pngtest.vcxproj -> .\Win32_LIB_Release\Test\pngtest.pdb (Full PDB)
+  
+   Testing libpng version 1.6.25
+     with zlib   version 1.2.8
+  libpng version 1.6.25 - September 1, 2016      Copyright (c) 1998-2002,2004,2006-2016 Glenn Randers-Pehrson      Copyright (c) 1996-1997 Andreas Dilger      Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc. library (10625): libpng version 1.6.25 - September 1, 2016
+   pngtest (10625): libpng version 1.6.25 - September 1, 2016
+  
+   Testing ..\..\pngtest.png:
+   Pass 0: rwrwrwrwrwrwrwrwrw
+   Pass 1: rwrwrwrwrwrwrwrwrw
+   Pass 2: rwrwrwrwrwrwrwrw
+   Pass 3: rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw
+   Pass 4: rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw
+   Pass 5: rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw
+           rwrwrwrw
+   Pass 6: rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw
+           rwrwrwrwrw
+   PASS (9782 zero samples)
+   tIME = 7 Jun 1996 17:58:08 +0000
+   libpng passes test
+   Default limits:
+    width_max  = 1000000
+    height_max = 1000000
+    cache_max  = 1000
+    malloc_max = 8000000
